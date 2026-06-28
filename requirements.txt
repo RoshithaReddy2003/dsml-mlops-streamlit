@@ -1,5 +1,4 @@
-pickle
-scikit-learn
-linearRegression
-pickle
+streamlit
+pandas
 numpy
+scikit-learn
